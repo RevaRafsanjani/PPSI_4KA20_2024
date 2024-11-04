@@ -6,9 +6,9 @@ Toko Herbal Lestari adalah sebuah toko yang menjual produk-produk herbal alami, 
 ## Authors
 
 - [Reva Rasya Rafsanjani](https://github.com/RevaRafsanjani) As Project Manager
-- [Muhammad Zahra Adriansyah](https://github.com/RevaRafsanjani) As Data Analyst
-- [Farel Haren Armando](https://github.com/RevaRafsanjani) As UI/UX Designer 
-- [Wahyu Nur Setiawan](https://github.com/RevaRafsanjani) As Programmer
+- [Muhammad Zahra Adriansyah](https://github.com/adrianzhrn) As Data Analyst
+- [Farel Harren Armando](https://github.com/batakz) As UI/UX Designer 
+- [Wahyu Nur Setiawan](https://github.com/NurST) As Programmer
 
 ## Objective
 

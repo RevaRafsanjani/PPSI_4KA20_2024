@@ -16,7 +16,7 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
 ## Documentation
 
  - [Introducion Presentation](https://www.canva.com/design/DAGTeD01SEY/pQhqK7ITf_4KAh6rLbeQlQ/edit)
- - [Project Charter]([https://docs.google.com/document/d/1dfn2_35sbOiAk67Kz3EzoUuGB2tvSb7hQHLicThsnQw/edit?tab=t.0]) | Revision Project Charter
+ - [Project Charter](https://docs.google.com/document/d/1dfn2_35sbOiAk67Kz3EzoUuGB2tvSb7hQHLicThsnQw/edit?tab=t.0) | Revision Project Charter
  - [Requirement Document Kelompok 1](https://docs.google.com/document/d/1gNZsJiaegsCta3DX6nCxKY9JU6tUZeipnNU2-qF6A40/edit?tab=t.0) |
 - [Video Presentation Requirement Document](https://drive.google.com/file/d/1tHJIPkEc6A1rOjDUDDtpZTWnfVKfpIAB/view)
 - [Gantt Chart | WBS | Revision Gantt Chart](https://docs.google.com/spreadsheets/d/1JGOOoZfysH31bAj25-qIn23E7Xn1j9FXAf2Q1F0z--c/edit?gid=1447166110#gid=1447166110)

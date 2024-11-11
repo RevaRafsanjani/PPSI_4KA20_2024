@@ -20,6 +20,7 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [WBS & Gantt Chard | Budgetting](https://docs.google.com/spreadsheets/d/19aWfEERRbzb3XL-km_bl4ZNXAEJPMN_YvWIIWX38MFs/edit?usp=sharing)
 - [Project Charter](https://docs.google.com/document/d/1VqmvCqXd6l5Bmo5qCBMiWBS3M3tQ_OXBx1FDrBiQ0jg/edit?usp=sharing)
 - [Requirement Document](https://docs.google.com/document/d/1PNnkxIvMJqYBtjiu3B8N6Hn2rMRwig6Or5rr-Tc9170/edit?usp=sharing)
+- [Business Process Model and Notation](https://drive.google.com/file/d/1iWRVp3H-4Tl62yvurts27mY7nzUVc-lW/view?usp=sharing)
 
 ## Extra
 

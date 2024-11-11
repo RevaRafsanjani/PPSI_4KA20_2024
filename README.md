@@ -15,6 +15,6 @@ This project aims to enhance the salon’s online presence, streamline customer 
 - [Work Breakdown Structure Kelompok 4](https://drive.google.com/file/d/1FM6ujerXAo5E0Bt61SFs3WVhLa6NTlf9/view?usp=sharing)
 - [Gantt Chart Kelompok 4](https://docs.google.com/spreadsheets/d/14fQN1fhTnN69CYkO_QTHr5ob5tt8As9AMgIEEiAA_Gk/edit?usp=sharing)
 - [Presentasi Requirement Document Kelompok 4](https://drive.google.com/file/d/15tOcKKWJ9s3ZcL57qvU13KheITtFshr5/view?usp=sharing)
-- [Project Charter Kelompok 4]{https://drive.google.com/file/d/1xVi_PSVZbBhjFzzsc6JhPIDSGH5C5sHt/view?usp=sharing}
-- [Revisi Project Charter Kelompok 4]{https://drive.google.com/file/d/1Hx_KdmqYjkkTnUB8M9JR9bVsLJ5ImGbv/view?usp=sharing}
-- [Requirement Document Kelompok 4]{https://drive.google.com/file/d/1_SNx9BvZfHzLn0jFQ58EFwPOsGkcLI7Y/view?usp=sharing}
+- [Project Charter Kelompok 4](https://drive.google.com/file/d/1xVi_PSVZbBhjFzzsc6JhPIDSGH5C5sHt/view?usp=sharing)
+- [Revisi Project Charter Kelompok 4](https://drive.google.com/file/d/1Hx_KdmqYjkkTnUB8M9JR9bVsLJ5ImGbv/view?usp=sharing)
+- [Requirement Document Kelompok 4](https://drive.google.com/file/d/1_SNx9BvZfHzLn0jFQ58EFwPOsGkcLI7Y/view?usp=sharing)

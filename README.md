@@ -6,7 +6,7 @@ The purpose of the Santy Salon Website is to modernize the business operations o
 - [Muhammad Reza Itok as Project Manager](https://www.linkedin.com/in/muhammad-reza-itok-544b15287/)
 - [Frensky Almad as Analyst](https://www.linkedin.com/in/frensky-almad-b596ab313/)
 - [Maisarah Salwa Arief Saputri as Designer](https://www.linkedin.com/in/maisarah-salwa/)
-- [Ahmad Fauzi - Programmer]
+- [Ahmad Fauzi as Programmer](https://www.linkedin.com/in/ahmad-fauzi-67aba5337/?originalSubdomain=id)
 - [Fayruz Shadrina Zain Wijaya as Tester and Documenter](https://www.linkedin.com/in/fayruz-shadrina-zain-wijaya/) 
 # Objective
 This project aims to enhance the salon’s online presence, streamline customer interactions, and provide comprehensive service information.

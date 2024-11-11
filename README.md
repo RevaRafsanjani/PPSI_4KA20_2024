@@ -15,7 +15,7 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 - [WBS & GhanttChart](https://docs.google.com/spreadsheets/d/1kqdSWWBbXk9HYxJZndC8U62nx2pZGZXFxUpIpduGSVg/edit?usp=drive_link)
 - [Project Charter](https://docs.google.com/document/d/10eLmqHr_7fOLy-u_Fz5xZ7LV_oULq-Nn/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 - [Requirment Document](https://docs.google.com/document/d/1vWykRRQn-1_0ZJfPbXuUfWaemVGfLwLq/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
-- [BPMN] (https://drive.google.com/file/d/1B-ubc4HbFFwUQRfbIYlk5BrRyRbP-AgI/view?usp=sharing)
+- [BPMN](https://drive.google.com/file/d/1B-ubc4HbFFwUQRfbIYlk5BrRyRbP-AgI/view?usp=sharing)
 
 ## Extras
 - [Requirment Document Presentation](https://drive.google.com/file/d/13eQHnRbR-UFrHm6tCTRyrqf0FN3r432m/view?usp=drive_link)

@@ -25,6 +25,8 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 ## Extra
 
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1p9YTYOxUC2HvOHcu0iEZx-zYExRJ9QD6/view?usp=sharing)
+- [Presentation Video Business Process Model And Notation](https://drive.google.com/file/d/1hbYI_s0lds9TIbznpWY74Dk_ugtB5aPL/view?usp=sharing)
+
 
 
 

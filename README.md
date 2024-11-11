@@ -21,3 +21,4 @@ Tujuan proyek ini adalah membuat aplikasi e-Learning yang memungkinkan Guru untu
 
 ## Extra
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1iWHYI0Kj6oq0MMSTlOVWjXwDnE-IiNGO/view?usp=drive_link)
+- [Presentation Video BPMN](https://drive.google.com/file/d/1iN1N6B9Zn60qW_EheyJ9s8jSK_TRVAD4/view?usp=sharing)

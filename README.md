@@ -5,10 +5,10 @@ Website AC Nursing adalah sebuah platform yang memungkinkan pengguna, khususnya 
 
 ## Authors
 
-- [Muhammad Kazuya Ramadhan ](https://github.com/) As Project Manager
+- [Muhammad Kazuya Ramadhan ](https://github.com/androrange) As Project Manager
 - [Richard Oscar Yusuf](https://github.com/reyyusuf) As Programmer
-- [Hasna Talitha](https://github.com/) As Data Analyst
-- [Vanya Amany Fatiha](https://github.com/) As UI/UX Designer
+- [Hasna Talitha](https://github.com/hasnatalitha) As Data Analyst
+- [Vanya Amany Fatiha](https://github.com/vanyaamany) As UI/UX Designer
 - [Luthfi Raihan Ramadhan](https://github.com/) As Quality Assurance
 
 ## Objective

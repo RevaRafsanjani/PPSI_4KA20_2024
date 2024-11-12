@@ -9,7 +9,7 @@ Website AC Nursing adalah sebuah platform yang memungkinkan pengguna, khususnya 
 - [Richard Oscar Yusuf](https://github.com/reyyusuf) As Programmer
 - [Hasna Talitha](https://github.com/hasnatalitha) As Data Analyst
 - [Vanya Amany Fatiha](https://github.com/vanyaamany) As UI/UX Designer
-- [Luthfi Raihan Ramadhan](https://github.com/) As Quality Assurance
+- [Luthfi Raihan Ramadhan](https://github.com/filthypii) As Quality Assurance
 
 ## Objective
 

@@ -20,3 +20,5 @@ This project aims to enhance the salon’s online presence, streamline customer 
 - [Revisi Project Charter Kelompok 4](https://drive.google.com/file/d/1Hx_KdmqYjkkTnUB8M9JR9bVsLJ5ImGbv/view?usp=sharing)
 - [Presentasi BPMN Kelompok 4](https://drive.google.com/file/d/17wAetxf0KP81bYVTy22pFHefWHzHha_b/view?usp=sharing)
 - [BPMN Kelompok 4](https://drive.google.com/file/d/1ON43ewDDlt5PTd5laJfh51_r-Nd8kWUK/view?usp=sharing)
+- [Presentasi Dokumen SRS Kelompok 4](https://drive.google.com/file/d/1z2BMwmmcumgGGPIBquqFRiZgIFa-qRl6/view?usp=sharing)
+- [Dokumen SRS Kelompok 4](https://drive.google.com/file/d/1qt-34Y_KS8ZscfDzcfQkp3gwBlXBGLlH/view?usp=sharing)

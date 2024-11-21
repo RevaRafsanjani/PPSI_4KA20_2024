@@ -32,6 +32,7 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
 
 
 ## Video
-- [Video Presentation Requirement Document](https://drive.google.com/file/d/1tHJIPkEc6A1rOjDUDDtpZTWnfVKfpIAB/view)
-- [Video Presentation BPMN Brand Pugnator Sport](https://drive.google.com/file/d/1K6bsYNocL8wQWIB660_Buu5C3fRh87_p/view?usp=sharing)
+- [Presentation Video Requirement Document](https://drive.google.com/file/d/1tHJIPkEc6A1rOjDUDDtpZTWnfVKfpIAB/view)
+- [Presentation Video BPMN Brand Pugnator Sport](https://drive.google.com/file/d/1K6bsYNocL8wQWIB660_Buu5C3fRh87_p/view?usp=sharing)
+- [Presentation Video Software Requirements Specification](https://drive.google.com/file/d/1_dAaV91sjbZZghP13rytJclmzjoAu53s/view?usp=drive_link)
 

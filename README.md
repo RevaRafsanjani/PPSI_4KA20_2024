@@ -20,6 +20,7 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
  - [Requirement Document Kelompok 1](https://docs.google.com/document/d/1gNZsJiaegsCta3DX6nCxKY9JU6tUZeipnNU2-qF6A40/edit?tab=t.0) |
 - [Gantt Chart | WBS | Revision Gantt Chart](https://docs.google.com/spreadsheets/d/1JGOOoZfysH31bAj25-qIn23E7Xn1j9FXAf2Q1F0z--c/edit?gid=1447166110#gid=1447166110)
 - [BPMN Brand Pugnator Sport](https://viewer.diagrams.net/index.html?tags=%7B%7D&lightbox=1&target=blank&highlight=7EA6E0&edit=_blank&layers=1&nav=1&title=BPMN%20Brand%20Pugnator%20Sport%20Version%201.0%20.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1byak9Pw8MCj_muf58xiy5cw4CBep-JJ3%26export%3Ddownload#%7B%22pageId%22%3A%22prtHgNgQTEPvFCAcTncT%22%7D) | Revision BPMN
+- [Software Requirements Specification](https://docs.google.com/document/d/1D58f4kxsS0cMFdobT3pVuWUAYNGzLBPE7t6Epa10ByM/edit?usp=sharing)
 
 
 ## Team Members

@@ -29,6 +29,9 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [Presentation Video Business Process Model And Notation](https://drive.google.com/file/d/1hbYI_s0lds9TIbznpWY74Dk_ugtB5aPL/view?usp=sharing)
 - [Presentation Video SRS Document](https://drive.google.com/file/d/1zx2_NKocPo7ZRItd1dxyLnL1q78tAPqv/view?usp=sharing)
 
+## Logo
+![Logo](https://github.com/RevaRafsanjani/pengalaman-belajar/raw/main/Logo%20Toko%20Herbal%20Lestari/Logo%202.png)
+
 
 
 

@@ -17,6 +17,7 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 - [Requirement Document](https://docs.google.com/document/d/1vWykRRQn-1_0ZJfPbXuUfWaemVGfLwLq/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 - [BPMN](https://drive.google.com/file/d/1B-ubc4HbFFwUQRfbIYlk5BrRyRbP-AgI/view?usp=sharing)
 - [SRS](https://docs.google.com/document/d/1_lKLvzCtP0kGE-c8HDyc3yIF4HHAoxLH/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
+- [SDD](https://docs.google.com/document/d/1M6_D4weXtsr_9VFK9ROsB4qBEaQuxHjI/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 
 ## Extras
 - [Requirment Document Presentation](https://drive.google.com/file/d/13eQHnRbR-UFrHm6tCTRyrqf0FN3r432m/view?usp=drive_link)

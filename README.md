@@ -19,6 +19,7 @@ Tujuan proyek ini adalah membuat aplikasi e-Learning yang memungkinkan Guru untu
 - [Requirement Document](https://drive.google.com/file/d/1vkPTGRYtbROhh9qKkkVpikkZYpBRtsVY/view?usp=drive_link)
 - [BPMN Diagram](https://drive.google.com/file/d/1BCVHVWBR85km-L0vYUA5yCKqtyTp5YPw/view?usp=drive_link)
 - [SRS V1.0](https://drive.google.com/file/d/15BnulFhbKi7JptupcYUdcsloTM0rzBCW/view?usp=drive_link)
+- [SDD V1.0](https://drive.google.com/file/d/141fMrVGT0nODUMRUDl7-at8y2DVP84ub/view?usp=drivesdk)
 
 ## Extra
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1iWHYI0Kj6oq0MMSTlOVWjXwDnE-IiNGO/view?usp=drive_link)

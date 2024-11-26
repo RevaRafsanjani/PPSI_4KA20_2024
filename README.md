@@ -22,3 +22,4 @@ This project aims to enhance the salon’s online presence, streamline customer 
 - [BPMN Kelompok 4](https://drive.google.com/file/d/1ON43ewDDlt5PTd5laJfh51_r-Nd8kWUK/view?usp=sharing)
 - [Presentasi Dokumen SRS Kelompok 4](https://drive.google.com/file/d/1z2BMwmmcumgGGPIBquqFRiZgIFa-qRl6/view?usp=sharing)
 - [Dokumen SRS Kelompok 4](https://drive.google.com/file/d/1qt-34Y_KS8ZscfDzcfQkp3gwBlXBGLlH/view?usp=sharing)
+- [Software Design Document Kelompok 4] (https://docs.google.com/document/d/115gKkkoIAx_OXBbdKXnfp6EVgf_CGERmUE7wgEeLC2w/edit?usp=sharing)

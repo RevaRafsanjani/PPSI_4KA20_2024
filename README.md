@@ -22,6 +22,7 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [Requirement Document](https://docs.google.com/document/d/1PNnkxIvMJqYBtjiu3B8N6Hn2rMRwig6Or5rr-Tc9170/edit?usp=sharing)
 - [Business Process Model and Notation](https://drive.google.com/file/d/1iWRVp3H-4Tl62yvurts27mY7nzUVc-lW/view?usp=sharing)
 - [Software Requirement Specification Document](https://docs.google.com/document/d/12uP5eH7eqc0zWUmXJedJ0Ux-DtGm1IzwOZAnEYCi_yk/edit?usp=sharing)
+- [Software Design Document](https://docs.google.com/document/d/1mJSJUubt4ayYzP9hpW2Jd2pz7aT0CPDMR6vJ6zRyjBQ/edit?usp=sharing)
 
 ## Extra
 

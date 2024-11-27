@@ -3,7 +3,7 @@
 
 Toko Herbal Lestari adalah sebuah toko yang menjual produk-produk herbal alami, seperti jamu, teh herbal, suplemen organik, dan produk kesehatan alami lainnya. Dengan berkembangnya teknologi, diperlukan platform e-commerce yang dapat menjangkau konsumen secara lebih luas dan meningkatkan penjualan.
 
-## Authors
+## Team Members
 
 - [Reva Rasya Rafsanjani](https://github.com/RevaRafsanjani) As Project Manager
 - [Muhammad Zahra Adriansyah](https://github.com/adrianzhrn) As Data Analyst
@@ -24,7 +24,7 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [Software Requirement Specification Document](https://docs.google.com/document/d/12uP5eH7eqc0zWUmXJedJ0Ux-DtGm1IzwOZAnEYCi_yk/edit?usp=sharing)
 - [Software Design Document](https://docs.google.com/document/d/1mJSJUubt4ayYzP9hpW2Jd2pz7aT0CPDMR6vJ6zRyjBQ/edit?usp=sharing)
 
-## Extra
+## Video Presentation
 
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1p9YTYOxUC2HvOHcu0iEZx-zYExRJ9QD6/view?usp=sharing)
 - [Presentation Video Business Process Model And Notation](https://drive.google.com/file/d/1hbYI_s0lds9TIbznpWY74Dk_ugtB5aPL/view?usp=sharing)

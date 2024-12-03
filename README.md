@@ -18,8 +18,10 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 - [BPMN](https://drive.google.com/file/d/1B-ubc4HbFFwUQRfbIYlk5BrRyRbP-AgI/view?usp=sharing)
 - [SRS](https://docs.google.com/document/d/1_lKLvzCtP0kGE-c8HDyc3yIF4HHAoxLH/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
 - [SDD](https://docs.google.com/document/d/1M6_D4weXtsr_9VFK9ROsB4qBEaQuxHjI/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
+- [Implementasi](https://docs.google.com/document/d/1mKiwFwD7xbmRGmAkyUCXiFwEP4oExRRI/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
 
 ## Extras
 - [Requirment Document Presentation](https://drive.google.com/file/d/13eQHnRbR-UFrHm6tCTRyrqf0FN3r432m/view?usp=drive_link)
 - [BPMN Presentation](https://drive.google.com/file/d/15-SwzLbk6gkSYQX14bfccXV6fLfB5YFc/view?usp=drive_link)
 - [SRS Presentation](https://drive.google.com/file/d/1BwW6VHDerw81GauA_TPlGXTmxlG6sMXC/view?usp=sharing)
+- [Implementasi Presentation](https://drive.google.com/file/d/1AwoR1XmxvMd_EfSmkY3uo84gIs46W2uF/view?usp=drive_link)

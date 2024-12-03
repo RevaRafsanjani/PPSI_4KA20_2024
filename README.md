@@ -23,12 +23,13 @@ Website AC Nursing bertujuan untuk menyediakan platform daring yang memungkinkan
 - [Requirement Document](https://docs.google.com/document/d/151zUqC6kAGNDmlMilm6lTVzKPx1fAeVn/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
 - [Business Process Model and Notation](https://drive.google.com/file/d/1Cljy6Bj49O3bYz52t2YS6YtzgLSmS9V5/view?usp=drive_link)
 - [Software Requirements Specification](https://drive.google.com/file/d/1SyELzPSCb99DnH3e3oDmhHCMDaVw9UYe/view?usp=sharing)
+- [Software Design Documents](https://drive.google.com/file/d/1lJzlWo930pcypdkoLSMerNmlUDqJ-kRe/view?usp=sharing)
 
 ## Extra
 
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1SLK15L1wMVeQ7dR2AzlOA-v03t1rAqva/view?usp=sharing)
 - [Presentation Video Business Process Model and Notation](https://drive.google.com/file/d/1hhAkk_eYhVP63mjuw5KOsATMkstVBR4-/view?usp=sharing)
-- [Presentation Video Software Requirements Specification](https://drive.google.com/file/d/1tJKc6zdMMbeNmovq9Mc98sT04o8fY7Bm/view?usp=sharing)
+- [Presentation Video Software Requirements Specification](https://drive.google.com/file/d/1XcsC-duLmBfGRRZQN6ux78D9C6ed0n3b/view?usp=drive_link)
 
 
 

@@ -23,12 +23,14 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [Business Process Model and Notation](https://drive.google.com/file/d/1iWRVp3H-4Tl62yvurts27mY7nzUVc-lW/view?usp=sharing)
 - [Software Requirement Specification Document](https://docs.google.com/document/d/12uP5eH7eqc0zWUmXJedJ0Ux-DtGm1IzwOZAnEYCi_yk/edit?usp=sharing)
 - [Software Design Document](https://docs.google.com/document/d/1mJSJUubt4ayYzP9hpW2Jd2pz7aT0CPDMR6vJ6zRyjBQ/edit?usp=sharing)
+- [Implementation Plan](https://docs.google.com/document/d/1s_08wmAtmj8_9ZQkzmzZ_bYikXCsJ1N1lv-1-3DyCvQ/edit?usp=sharing)
 
 ## Video Presentation
 
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1p9YTYOxUC2HvOHcu0iEZx-zYExRJ9QD6/view?usp=sharing)
 - [Presentation Video Business Process Model And Notation](https://drive.google.com/file/d/1hbYI_s0lds9TIbznpWY74Dk_ugtB5aPL/view?usp=sharing)
 - [Presentation Video SRS Document](https://drive.google.com/file/d/1zx2_NKocPo7ZRItd1dxyLnL1q78tAPqv/view?usp=sharing)
+- [Presentation Video Implementation Plan](https://drive.google.com/file/d/1p7HRcjZj28ZAP1UUwC8_K7xSHfJ7lUog/view?usp=sharing)
 
 ## Our Design
 [Figma Link for Toko Herbal Lestari Design](https://www.figma.com/design/yguZ3BHEUdkqOJEnNEq4Uy/Project-Toko-Herbal-yang-bener?node-id=0-1&t=vJRAxxdmSmKjp04t-1)

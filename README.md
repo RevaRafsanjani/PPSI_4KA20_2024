@@ -22,6 +22,7 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
 - [BPMN Brand Pugnator Sport](https://viewer.diagrams.net/index.html?tags=%7B%7D&lightbox=1&target=blank&highlight=7EA6E0&edit=_blank&layers=1&nav=1&title=BPMN%20Brand%20Pugnator%20Sport%20Version%201.0%20.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1byak9Pw8MCj_muf58xiy5cw4CBep-JJ3%26export%3Ddownload#%7B%22pageId%22%3A%22prtHgNgQTEPvFCAcTncT%22%7D) | Revision BPMN
 - [Software Requirements Specification](https://docs.google.com/document/d/1D58f4kxsS0cMFdobT3pVuWUAYNGzLBPE7t6Epa10ByM/edit?usp=sharing)
 - [Software Design Documents](https://docs.google.com/document/d/1tQs_9FwKleXdKAdC61r0If_T4Sdq5OBriLRQKK4mTUM/edit?usp=sharing)
+- [Implementasi Documents](https://docs.google.com/document/d/1chIIqhbJiF_W3bQezVX4FfTx8xAMV3mC/edit?usp=sharing&ouid=110591289204678091307&rtpof=true&sd=true)
   
 
 
@@ -37,4 +38,5 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1tHJIPkEc6A1rOjDUDDtpZTWnfVKfpIAB/view)
 - [Presentation Video BPMN Brand Pugnator Sport](https://drive.google.com/file/d/1K6bsYNocL8wQWIB660_Buu5C3fRh87_p/view?usp=sharing)
 - [Presentation Video Software Requirements Specification](https://drive.google.com/file/d/1_dAaV91sjbZZghP13rytJclmzjoAu53s/view?usp=drive_link)
+- [Presentation Video Implementasi](https://drive.google.com/file/d/1QOFyD5ryNqfQk_GAfsaJZNeKrfE6WTuW/view?usp=drive_link)
 

@@ -36,7 +36,7 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 [Figma Link for Toko Herbal Lestari Design](https://www.figma.com/design/yguZ3BHEUdkqOJEnNEq4Uy/Project-Toko-Herbal-yang-bener?node-id=0-1&t=vJRAxxdmSmKjp04t-1)
 
 ## Logo
-![Logo]([https://github.com/RevaRafsanjani/pengalaman-belajar/raw/main/Logo%20Toko%20Herbal%20Lestari/Logo%202.png](https://github.com/RevaRafsanjani/pengalaman-belajar/blob/main/Logo%202.png))
+![Logo](https://github.com/RevaRafsanjani/pengalaman-belajar/blob/0b8bbe9b9873530acdb3fc8f14a4ecb0d8423bd0/Logo%202.png)
 
 
 

@@ -24,13 +24,20 @@ Website AC Nursing bertujuan untuk menyediakan platform daring yang memungkinkan
 - [Business Process Model and Notation](https://drive.google.com/file/d/1Cljy6Bj49O3bYz52t2YS6YtzgLSmS9V5/view?usp=drive_link)
 - [Software Requirements Specification](https://drive.google.com/file/d/1SyELzPSCb99DnH3e3oDmhHCMDaVw9UYe/view?usp=sharing)
 - [Software Design Documents](https://drive.google.com/file/d/1lJzlWo930pcypdkoLSMerNmlUDqJ-kRe/view?usp=sharing)
+- [Implementation Plan Documents](https://docs.google.com/document/d/14ieP2mkD3SpbtWdgFM0MIaRDgU1QMtRu/edit?usp=sharing&ouid=115281721375636308686&rtpof=true&sd=true)
 
 ## Video Presentation
 
 - [Presentation Video Requirement Document](https://drive.google.com/file/d/1SLK15L1wMVeQ7dR2AzlOA-v03t1rAqva/view?usp=sharing)
 - [Presentation Video Business Process Model and Notation](https://drive.google.com/file/d/1hhAkk_eYhVP63mjuw5KOsATMkstVBR4-/view?usp=sharing)
 - [Presentation Video Software Requirements Specification](https://drive.google.com/file/d/1XcsC-duLmBfGRRZQN6ux78D9C6ed0n3b/view?usp=drive_link)
-- [Presentation Video Riwayat Implementasi](https://drive.google.com/file/d/16QdmF-Jd8cncU6Bq7_8cF4XYreBni11F/view?usp=sharing)
+- [Presentation Video Implementation Plan](https://drive.google.com/file/d/16QdmF-Jd8cncU6Bq7_8cF4XYreBni11F/view?usp=sharing)
+
+## Our Design
+[Figma Link for Toko Herbal Lestari Design]()
+
+## Logo
+![Logo]()
 
 
 

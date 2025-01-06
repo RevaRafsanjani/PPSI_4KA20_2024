@@ -34,7 +34,7 @@ Website AC Nursing bertujuan untuk menyediakan platform daring yang memungkinkan
 - [Presentation Video Implementation Plan](https://drive.google.com/file/d/16QdmF-Jd8cncU6Bq7_8cF4XYreBni11F/view?usp=sharing)
 
 ## Our Design
-[Figma Link for Toko Herbal Lestari Design]()
+[Figma Link for AC Nursing Design]()
 
 ## Logo
 ![Logo]()

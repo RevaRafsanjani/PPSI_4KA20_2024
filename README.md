@@ -1,7 +1,7 @@
 
 # AC Nursing
 
-Website AC Nursing adalah sebuah platform yang memungkinkan pengguna, khususnya penyandang disabilitas, serta lansia untuk melakukan konsultasi medis dan booking layanan kesehatan tanpa harus datang langsung ke lokasi. Melalui platform ini, pengguna dapat melakukan pemesanan janji, berkonsultasi secara online, dan memanfaatkan fitur aksesibilitas yang disesuaikan dengan kebutuhan mereka dengan didampingi keluarga/kerabat terdekat.
+Di AC Nursing Care, kami berkomitmen untuk memberikan layanan kesehatan yang luar biasa yang disesuaikan dengan kebutuhan individu Anda. Misi kami adalah memastikan kenyamanan, kebahagiaan, dan kesejahteraan Anda dengan memberikan perawatan yang penuh kasih, profesional, dan berkualitas tinggi. Dengan tim profesional berpengalaman yang berdedikasi, kami mengkhususkan diri dalam solusi perawatan keperawatan pribadi yang dirancang untuk mendukung kehidupan sehari-hari Anda dan meningkatkan kualitas hidup Anda. Baik itu perawatan keperawatan, dukungan kontinensia, atau bantuan harian, kami memperlakukan Anda seperti keluarga, membangun kepercayaan dan rasa hormat dalam segala hal yang kami lakukan. Senyuman Anda adalah prioritas kami, dan kenyamanan Anda adalah tujuan kami. Biarkan kami merawat Anda dengan kehangatan dan keahlian yang Anda layak dapatkan.
 
 ## Authors
 
@@ -13,7 +13,7 @@ Website AC Nursing adalah sebuah platform yang memungkinkan pengguna, khususnya 
 
 ## Objective
 
-Website AC Nursing bertujuan untuk menyediakan platform daring yang memungkinkan pengguna, khususnya penyandang disabilitas, serta lansia untuk melakukan konsultasi medis dan booking layanan kesehatan tanpa harus datang langsung ke lokasi.
+Website AC Nursing bertujuan untuk memberikan informasi lengkap dan mudah diakses mengenai layanan perawatan kesehatan yang kami tawarkan, serta untuk memudahkan klien dalam menghubungi kami. Website ini bertujuan untuk memperkenalkan layanan perawatan keperawatan pribadi, dukungan kontinensia, dan bantuan harian kepada masyarakat, serta memberikan kemudahan dalam proses pemesanan atau konsultasi melalui fitur komunikasi online yang terintegrasi. Selain itu, website ini juga menjadi sarana untuk menunjukkan komitmen kami dalam memberikan perawatan yang penuh kasih, profesional, dan berkualitas tinggi, serta memudahkan calon klien dalam mengenal lebih dekat tentang nilai dan misi perusahaan kami.
 
 ## Documentation
 

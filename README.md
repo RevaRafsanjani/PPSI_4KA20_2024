@@ -25,3 +25,4 @@ This project aims to enhance the salon’s online presence, streamline customer 
 - [Software Design Document Kelompok 4](https://docs.google.com/document/d/115gKkkoIAx_OXBbdKXnfp6EVgf_CGERmUE7wgEeLC2w/edit?usp=sharing)
 - [Presentasi Rencana Implementasi Kelompok 4](https://drive.google.com/file/d/1jaZkTae8WwHFhbRisqQn9X6bYxMAm8oV/view?usp=sharing)
 - [Rencana Implementasi Kelompok 4](https://drive.google.com/file/d/1dLRCb0RtE2MlLG9pV85BeGYK2HjqjESt/view?usp=sharing)
+- [Revisi (2.0 Version) Implementasi Kelompok 4](https://drive.google.com/drive/folders/16Z9nCG9oQgOdUYDRQ1ojdjYH97BOnzTN)

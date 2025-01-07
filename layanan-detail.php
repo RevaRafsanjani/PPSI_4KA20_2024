@@ -37,7 +37,7 @@ $querylayananTerkait = mysqli_query($con, "SELECT * FROM layanan WHERE id!='$lay
                     <p class="indent1 fs-5 text-effect" style="text-align: justify;">
                         <?php echo $layanan['detail']; ?>
                     </p>
-                    <a href="contact.php?nama=<?php echo $layanan['nama']; ?>" class="btn btn-outline-brown text-white mt-3 p-2">Call Us Now</a>
+                    <a href="contact.php?nama=<?php echo $layanan['nama']; ?>" class="btn btn-outline-brown text-white p-2">Need Help?</a>
                 </div>
             </div>
         </div>

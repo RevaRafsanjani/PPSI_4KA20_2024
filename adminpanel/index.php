@@ -16,7 +16,7 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Adminpanel | Home</title>
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="../fontawesome/css/all.min.css">
     <link rel="shortcut icon" href="../image/favicon.ico" type="image/x-icon">
@@ -103,7 +103,6 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
         .no-decoration {
             text-decoration: none;
             color: inherit;
-            /* Menggunakan warna teks bawaan kartu */
         }
 
         .no-decoration:hover {
@@ -134,7 +133,7 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
                             <div class="icon">
                                 <i class="fa-solid fa-list"></i>
                             </div>
-                            <h3>Category</h3>
+                            <h3><strong>Edit Category</strong></h3>
                             <p><?php echo $jumlahKategori; ?> Categories</p>
                         </div>
                     </a>
@@ -147,7 +146,7 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
                             <div class="icon">
                                 <i class="fa-solid fa-boxes-stacked"></i>
                             </div>
-                            <h3>Services</h3>
+                            <h3><strong>Edit Services</strong></h3>
                             <p><?php echo $jumlahlayanan; ?> Services</p>
                         </div>
                     </a>

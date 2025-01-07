@@ -2,11 +2,35 @@
 session_start();
 require "koneksi.php";
 
+//proses logout
+if (isset($_POST['logout'])) {
+    session_unset(); // Hapus semua data session
+    session_destroy(); // Akhiri session
+    header('location: login.php'); // Arahkan ke halaman login
+    exit;
+}
+
 // Cek apakah session login sudah ada
 if (!isset($_SESSION['client_id'])) {
     header('location: login.php');  // Jika tidak ada session, arahkan ke login
     exit;
 }
+
+// Tambahkan mekanisme batas waktu 5 menit
+if (!isset($_SESSION['login_time'])) {
+    $_SESSION['login_time'] = time(); // Simpan waktu login saat pertama kali
+} else {
+    $time_elapsed = time() - $_SESSION['login_time']; // Hitung waktu yang sudah berlalu
+    if ($time_elapsed > 300) { // 300 detik = 5 menit
+        session_unset(); // Hapus semua data session
+        session_destroy(); // Hapus session
+        header('location: login.php?timeout=1'); // Redirect ke login dengan notifikasi timeout
+        exit;
+    }
+}
+
+// Ambil nama pengguna dari sesi
+$username = htmlspecialchars($_SESSION['username']); // Gunakan htmlspecialchars untuk keamanan
 
 // Ambil data layanan dari tabel "layanan"
 $querylayanan = mysqli_query($con, "SELECT * FROM layanan");
@@ -75,7 +99,7 @@ if (isset($_POST['submit_referral'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Refer a Client</title>
+    <title>AC Nursing | Refer a Client Form</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="shortcut icon" href="../acnursing/image/favicon.ico" type="image/x-icon">
 </head>
@@ -90,18 +114,22 @@ if (isset($_POST['submit_referral'])) {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 100vh;
+        min-height: 100vh;
         margin: 0;
+        padding: 10px;
     }
 
     .container {
         background-color: #ffffff;
-        padding: 40px;
+        padding: 20px;
+        /* Kurangi padding agar lebih kecil */
         border-radius: 15px;
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         width: 100%;
-        max-width: 500px;
-        margin: 10px;
+        max-width: 400px;
+        /* Batasi lebar maksimum */
+        margin: auto;
+        /* Pastikan form tetap berada di tengah */
     }
 
     h2 {
@@ -159,11 +187,20 @@ if (isset($_POST['submit_referral'])) {
         color: #155724;
         margin-bottom: 20px;
     }
+
+    @media (max-width: 576px) {
+        .container {
+            padding: 15px;
+            /* Kurangi padding lebih lanjut jika perlu */
+            max-width: 90%;
+            /* Gunakan persentase agar lebih fleksibel */
+        }
+    }
 </style>
 
 <body>
-    <div class="container mt-5">
-        <h2>Refer a Client</h2>
+    <div class="container mt-5 mb-5">
+        <h2 class="text-center text-primary">Welcome, <?= htmlspecialchars($username ?? 'User') ?>! <br> Please Fill Out the Form to Refer a Client</h2>
         <form method="post" action="">
             <!-- Full Name -->
             <div class="form-group">
@@ -233,6 +270,7 @@ if (isset($_POST['submit_referral'])) {
             <button type="submit" name="submit_referral" class="btn btn-primary">Submit Referral</button>
         </form>
 
+
         <!-- Success/Error Messages -->
         <?php if (isset($success)): ?>
             <div class="alert alert-primary mt-3" role="alert">
@@ -251,6 +289,31 @@ if (isset($_POST['submit_referral'])) {
             const ndisDiv = document.getElementById('ndis_number_div');
             ndisDiv.style.display = value === 'Yes' ? 'block' : 'none';
         }
+    </script>
+    <script>
+        // Hitung mundur waktu yang tersisa (10 menit = 600 detik)
+        let timeLeft = 600;
+
+        const countdownInterval = setInterval(() => {
+            timeLeft -= 1;
+
+            // Kirim permintaan untuk memperbarui waktu aktivitas terakhir ke server setiap detik
+            fetch('update_activity.php')
+                .then(response => response.text())
+                .then(data => {
+                    // Jika perlu, Anda bisa menangani respons dari server
+                    console.log('Activity time updated');
+                })
+                .catch(error => {
+                    console.error('Error updating activity time:', error);
+                });
+
+            if (timeLeft <= 0) {
+                clearInterval(countdownInterval);
+                alert("Your session has expired. You will be redirected to the login page.");
+                window.location.href = 'login.php?timeout=1';
+            }
+        }, 1000);
     </script>
 </body>
 

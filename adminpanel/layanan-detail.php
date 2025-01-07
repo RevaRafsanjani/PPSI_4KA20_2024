@@ -27,7 +27,7 @@ function generateRandomString($length = 10)
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Services details</title>
+    <title>Adminpanel | Services details</title>
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
     <link rel="shortcut icon" href="../image/favicon.ico" type="image/x-icon">
 </head>

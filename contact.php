@@ -41,7 +41,7 @@
                 </div>
 
                 <!-- Form Box -->
-                <div class="col-md-5 offset-md-1">
+                <div class="col-md-5">
                     <div class="form-box mt-4 mb-1">
                         <h3 class="section-title text-center"><strong>Get In Touch With Us</strong></h3>
                         <form id="contactForm">

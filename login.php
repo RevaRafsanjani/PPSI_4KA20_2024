@@ -2,20 +2,47 @@
 session_start();
 require "koneksi.php";
 
+if (isset($_GET['timeout']) && $_GET['timeout'] == 1) {
+    echo "<div class='alert alert-warning text-center alert-center'>Session expired. Please log in again.</div>";
+}
+
 if (isset($_POST['login'])) {
     $username = htmlspecialchars($_POST['username']);
     $password = htmlspecialchars($_POST['password']);
 
-    $query = mysqli_query($con, "SELECT * FROM clients WHERE username='$username'");
-    $data = mysqli_fetch_array($query);
+    // Menyiapkan query untuk mencari user berdasarkan username
+    $query = $con->prepare("SELECT * FROM clients WHERE username = ?");
+    $query->bind_param("s", $username);
+    $query->execute();
+    $result = $query->get_result();
 
-    if ($data && password_verify($password, $data['password'])) {
-        $_SESSION['username'] = $data['username'];
-        $_SESSION['client_id'] = $data['id']; // Simpan client_id
-        $_SESSION['login'] = true;
-        header('location: refer.php'); // Arahkan ke halaman refer
+    if ($result->num_rows > 0) {
+        $verif = $result->fetch_assoc();
+
+        // Bandingkan password langsung tanpa hashing
+        if ($password === $verif['password']) {
+            // Mengecek apakah akun sudah diverifikasi
+            if ($verif['verified'] == 1) {
+                // Jika sudah diverifikasi, login berhasil
+                $_SESSION['username'] = $verif['username'];
+                $_SESSION['client_id'] = $verif['id'];
+                $_SESSION['login'] = true;
+                echo "<div class='alert alert-success alert-center' id='login-success'>Login successfully! Redirecting...</div>";
+                echo "<script>setTimeout(function(){ window.location='refer.php'; }, 2000);</script>"; // Redirect setelah 2 detik
+            } else {
+                // Jika belum diverifikasi, arahkan kembali ke login dengan pesan error
+                echo "<div class='alert alert-danger alert-center'>Please verify your Account first!</div>";
+                echo "<script>setTimeout(function(){ window.location='login.php'; }, 2000);</script>"; // Redirect setelah 2 detik
+            }
+        } else {
+            // Jika password salah
+            echo "<div class='alert alert-danger alert-center'>Your password is invalid! Try Again</div>";
+            echo "<script>setTimeout(function(){ window.location='login.php'; }, 2000);</script>"; // Redirect setelah 2 detik
+        }
     } else {
-        $error = "Invalid username or password.";
+        // Jika username tidak ditemukan
+        echo "<div class='alert alert-danger alert-center'>Username not found.</div>";
+        echo "<script>setTimeout(function(){ window.location='login.php'; }, 2000);</script>"; // Redirect setelah 2 detik
     }
 }
 ?>
@@ -26,7 +53,7 @@ if (isset($_POST['login'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>AC Nursing | Client Login</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="shortcut icon" href="../acnursing/image/favicon.ico" type="image/x-icon">
 </head>
@@ -143,6 +170,17 @@ if (isset($_POST['login'])) {
     .form-control {
         margin-bottom: 20px;
     }
+
+    .alert-center {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 9999;
+        width: 80%;
+        max-width: 400px;
+        text-align: center;
+    }
 </style>
 
 <body>
@@ -160,10 +198,27 @@ if (isset($_POST['login'])) {
             <button type="submit" name="login" class="btn btn-primary">Login</button>
         </form>
 
-        <?php if (isset($error)) echo "<div class='error-message'>$error</div>"; ?>
+        <!-- Menampilkan pesan error jika ada -->
+        <?php
+        if (isset($_GET['error'])) {
+            echo "<div class='error-message'>" . htmlspecialchars($_GET['error']) . "</div>";
+        }
+        ?>
 
         <p class="mt-3 text-center">Don't have an account? <a href="register.php">Register here</a></p>
     </div>
+    <script>
+        // Mengecek apakah ada elemen dengan kelas 'alert-center'
+        window.onload = function() {
+            const alertElement = document.querySelector('.alert-center');
+            if (alertElement) {
+                // Menghilangkan alert setelah 2 detik
+                setTimeout(function() {
+                    alertElement.style.display = 'none';
+                }, 2000); // 2000ms = 2 detik
+            }
+        }
+    </script>
 </body>
 
 </html>

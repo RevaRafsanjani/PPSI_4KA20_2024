@@ -1,0 +1,612 @@
+/* General Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Warna */
+.warna1 {
+  background-color: #f9dc83;
+}
+
+.warna2 {
+  background-color: #e4b6b6;
+}
+
+.warna3 {
+  background-color: #c0bda4;
+}
+
+.warna4 {
+  background-color: #6fc1cf;
+}
+
+.warna5 {
+  color: #9454fa;
+}
+
+.warna6 {
+  background-color: #be9df3;
+}
+
+.warna7 {
+  background-color: #f8f8f8;
+}
+
+.warna8 {
+  background: linear-gradient(to right, #f9dc83, #e4b6b6);
+}
+
+.warna9 {
+  background: linear-gradient(to left,rgb(209, 163, 253), rgb(253, 253, 120));
+}
+
+.color-text1 {
+    color: rgb(0, 0, 0);
+}
+
+.color-text2 {
+    color: rgb(125, 0, 209);
+}
+
+.color-text3 {
+    color: rgb(95, 30, 138);
+}
+
+.color-text4 {
+    color: rgb(33, 196, 11);
+}
+
+/* Banner */
+.banner {
+  height: 90vh;
+  background: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.8) 5%, rgba(0, 0, 0, 0.4) 100%), 
+    url("");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: black;
+  padding: 20px;
+}
+
+.bannerservice {
+  height: 50vh;
+  background: 
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.8) 5%, rgba(0, 0, 0, 0.4) 100%), 
+    url("../image/banner5.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: black;
+  padding: 20px;
+}
+
+.bannercontact {
+  height: 100vh; /* Full height banner */
+  background: 
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.8) 5%, rgba(0, 0, 0, 0.4) 100%), 
+    url("../image/banner5.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: black;
+  padding: 20px;
+}
+
+/* Menempatkan konten tepat di atas background */
+.container {
+  position: relative;
+  z-index: 1; /* Pastikan konten berada di atas background */
+}
+
+/* Main section styling - membuat layout kotak-kotak dengan background */
+.container-fluid.d-flex {
+  position: relative; /* Agar kotak berada di atas banner */
+  z-index: 2; /* Pastikan berada di atas banner */
+  padding-top: 20px;
+}
+
+/* Untuk responsiveness agar kotak kontak dan formulir lebih rapi di perangkat kecil */
+@media (max-width: 768px) {
+  .col-md-5 {
+    width: 100%; /* Membuat kolom menjadi 100% pada layar kecil */
+    margin-bottom: 20px; /* Menambahkan margin bawah antar kotak */
+  }
+
+  .col-md-5.offset-md-1 {
+    margin-left: 0; /* Hilangkan margin kiri pada perangkat kecil */
+  }
+}
+
+/* Kategori */
+.highlighted-kategori {
+  height: 250px;
+}
+
+.kategori-satu {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/cover1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.kategori-dua {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/selfie1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.kategori-tiga {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/selfie2.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+/* Dekorasi Teks */
+.no-decoration {
+  text-decoration: none;
+  color: white;
+}
+
+.no-decoration:hover {
+  color: #83f9f3;
+}
+
+.text-harga {
+  font-size: 22px;
+  color: #d4d243;
+}
+
+/* Kotak Gambar */
+.image-box {
+  height: 250px;
+  overflow: hidden; /* Pastikan gambar tidak meluap keluar dari kotaknya */
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+  transition: transform 0.3s ease-in-out; /* Menambahkan transisi halus */
+  object-fit: cover; /* Pastikan gambar menyesuaikan ukuran kotaknya */
+}
+
+.image-box img:hover {
+    transform: scale(1.1); /* Zoom in gambar ketika di-hover */
+}
+
+.produk-terkait-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Konten Subscribe */
+.content-subscribe {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.content-subscribe a {
+  color: #fff;
+}
+
+/* Tombol */
+.btn-outline-green {
+  background-color: rgba(45, 165, 45, 0.897);
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.btn-outline-green:hover {
+  background-color: rgba(24, 119, 24, 0.74);
+  color: white;
+  border-color: rgba(24, 119, 24, 0.74);;
+}
+
+.btn-outline-brown {
+  color: white;
+  background-color: #5ba9e9;
+  border-color: #5ba9e9;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.btn-outline-brown:hover {
+  background-color: rgb(155, 94, 224);
+  color: white;
+  border-color: rgb(155, 94, 224);
+}
+
+.button-uniform {
+    display: inline-block;
+    width: 200px; /* Tentukan lebar yang sama untuk kedua tombol */
+    padding: 10px 0; /* Tambahkan padding untuk tinggi yang konsisten */
+    text-align: center;
+    border-radius: 5px; /* Opsional untuk memberikan bentuk tombol */
+    font-weight: bold;
+}
+
+/* Section About Us */
+.about-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px; /* Jarak antara gambar dan teks */
+  padding: 20px;
+}
+
+.about-section img {
+  width: 40%; /* Tentukan persentase lebar gambar terhadap kontainer */
+  height: auto; /* Otomatis sesuaikan tinggi gambar berdasarkan lebar */
+  max-width: 400px; /* Batas maksimum lebar gambar */
+  border-radius: 10px; /* Sudut melengkung opsional */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Bayangan lembut */
+}
+
+.about-section .about-text {
+  flex: 1; /* Biarkan teks mengambil sisa ruang */
+  color: #333; /* Warna teks */
+  line-height: 1.6; /* Spasi antar baris teks */
+}
+
+.about-section h3 {
+  color: #007bff; /* Warna judul */
+  margin-bottom: 15px;
+}
+
+.about-section p {
+  margin-top: 10px;
+}
+
+/* Responsif untuk layar kecil */
+@media (max-width: 768px) {
+  .about-section {
+    flex-direction: column; /* Tata letak vertikal */
+    text-align: center; /* Rata tengah untuk teks */
+  }
+
+  .about-section img {
+    max-width: 80%; /* Gambar lebih kecil di layar kecil */
+    margin-bottom: 20px; /* Jarak bawah antara gambar dan teks */
+  }
+}
+
+/* Custom Footer Styles */
+.social-icon-hover {
+  transition: transform 0.3s ease-in-out, color 0.3s ease;
+}
+
+.social-icon-hover:hover {
+  color: #f9dc83;
+  transform: scale(1.2); /* Membesarkan ikon saat hover */
+}
+
+.quick-link-hover {
+  transition: color 0.3s ease-in-out, text-decoration 0.3s ease;
+}
+
+.quick-link-hover:hover {
+  color: #f9dc83;
+  text-decoration: underline;
+}
+
+.bg-location {
+    background-color: #6fc1cf; /* Warna latar belakang */
+    color: #ffffff;           /* Warna teks */
+    text-align: center;       /* Teks berada di tengah */
+    max-width: 600px;         /* Maksimal lebar untuk elemen */
+    margin: 0 auto;           /* Membuat elemen berada di tengah */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Efek bayangan (opsional) */
+    padding: 15px;            /* Tambahkan ruang di sekitar teks */
+    border-radius: 8px;       /* Buat sudut melengkung */
+}
+
+/* Kotak Gambar Layanan Terkait */
+.layanan-terkait-image {
+    width: 100%; /* Membuat gambar mengisi kontainer */
+    height: 200px; /* Menetapkan tinggi gambar */
+    object-fit: cover; /* Memastikan gambar mengisi kotak dengan proporsional */
+    object-position: center; /* Gambar tetap terpusat */
+    border: 3px solid #c0bda4; /* Menambahkan border */
+    border-radius: 8px; /* Sudut border melengkung */
+}
+
+.layanan-terkait-image:hover {
+    transform: scale(1.05); /* Efek zoom saat hover */
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Mengatur warna tautan email agar tidak biru */
+.footer a {
+    color: rgb(56, 56, 56) !important; /* Menetapkan warna putih untuk tautan */
+}
+
+.footer a:hover {
+    color: #ffffff !important; /* Mengubah warna saat hover */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    position: absolute;
+    bottom: 10%;
+    transform: translateY(50%);
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    border: none;
+}
+
+.carousel-control-prev {
+    left: 10%; /* Mengatur posisi tombol prev untuk responsif */
+}
+
+.carousel-control-next {
+    right: 10%; /* Mengatur posisi tombol next untuk responsif */
+}
+
+/* Ukuran ikon tombol */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+/* Media query untuk tampilan kecil (mobile) */
+@media (max-width: 768px) {
+    .carousel-control-prev,
+    .carousel-control-next {
+        bottom: 5%; /* Posisi lebih dekat ke bawah untuk layar kecil */
+    }
+
+    .carousel-control-prev {
+        left: 5%; /* Posisi tombol prev lebih rapat ke kiri */
+    }
+
+    .carousel-control-next {
+        right: 5%; /* Posisi tombol next lebih rapat ke kanan */
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        width: 40px; /* Ukuran tombol lebih kecil di layar kecil */
+        height: 40px; /* Ukuran tombol lebih kecil di layar kecil */
+    }
+}
+
+/* Media query untuk tampilan lebih besar (tablet dan desktop) */
+@media (min-width: 769px) {
+    .carousel-control-prev,
+    .carousel-control-next {
+        bottom: 10%; /* Posisi lebih tinggi untuk layar lebih besar */
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        width: 50px; /* Ukuran tombol lebih besar di layar besar */
+        height: 50px;
+    }
+}
+
+
+.about-text {
+    background-color: rgba(0, 0, 0, 0.25); /* memberi latar belakang transparan */
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+}
+
+.about-text h3 {
+    font-size: 2rem; /* lebih besar untuk heading */
+    color: #fff;
+}
+
+.about-text p {
+    color: #ddd;
+    font-size: 1.1rem;
+    text-align: justify;
+    line-height: 1.8;
+    margin-top: 10px;
+}
+
+.about-text p strong {
+    font-weight: bold;
+    color: #e1c7f0; /* warna terang untuk penekanan */
+}
+
+.indent {
+    text-indent: 70px; /* Menambahkan tab atau indentasi sebesar 30px pada teks pertama */
+}
+
+.indent1 {
+    text-indent: 40px; /* Menambahkan tab atau indentasi sebesar 30px pada teks pertama */
+}
+
+/* Efek Fade In untuk teks */
+    .text-effect {
+        opacity: 0;
+        animation: fadeIn 2s forwards;
+    }
+
+    /* Efek hover untuk teks */
+    .text-effect:hover {
+        color: rgb(137, 66, 179);
+        /* Mengubah warna teks saat hover */
+        transform: scale(1.05);
+        /* Membesarkan teks */
+        transition: 0.3s ease-in-out;
+    }
+
+    /* FadeIn Animation */
+    @keyframes fadeIn {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    /* Efek Typing (opsional) */
+    .text-effect.typing {
+        display: inline-block;
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typing 3s steps(30) 1s forwards, blink 0.75s step-end infinite;
+    }
+
+    /* Typing Animation */
+    @keyframes typing {
+        from {
+            width: 0;
+        }
+
+        to {
+            width: 100%;
+        }
+    }
+
+    /* Efek blink cursor */
+    @keyframes blink {
+        50% {
+            border-color: transparent;
+        }
+    }
+
+/* Contact Box Styling */
+.contact-box {
+    background: linear-gradient(135deg, rgba(105, 36, 124, 0.9), rgba(105, 36, 124, 0.6));
+    color: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    height: 80%;  /* Make the height flexible */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  /* Align content evenly inside */
+}
+
+.contact-box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
+}
+
+.contact-box .section-title {
+    font-size: 1.8rem;
+    margin-bottom: 50px;
+}
+
+.contact-box .contact-text {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+.contact-box i {
+    margin-right: 10px;
+}
+
+.contact-box a {
+    color: #f1c40f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-box a:hover {
+    text-decoration: underline;
+}
+
+/* Form Box Styling */
+.form-box {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    height: 80%;  /* Make the height flexible */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  /* Align content evenly inside */
+}
+
+.form-box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+}
+
+.form-box .section-title {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: #69247C;
+}
+
+.custom-input {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 12px;
+    font-size: 16px;
+    width: 100%;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-input:focus {
+    border-color: #69247C;
+    box-shadow: 0 0 8px rgba(105, 36, 124, 0.3);
+}
+
+.send-btn {
+    background-color: #69247C;
+    color: white;
+    font-size: 16px;
+    border-radius: 25px;
+    padding: 10px 30px;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.send-btn:hover {
+    background-color: #5c1f71;
+    cursor: pointer;
+}
+
+.send-btn i {
+    margin-right: 10px;
+}
+
+.send-btn span {
+    font-size: 1.2rem;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .contact-box, .form-box {
+        max-width: 100%;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+
+    .row {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .col-md-5 {
+        max-width: 100%;
+    }
+}

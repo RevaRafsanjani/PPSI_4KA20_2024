@@ -37,7 +37,7 @@ Website AC Nursing bertujuan untuk memberikan informasi lengkap dan mudah diakse
 [Figma Link for AC Nursing Design]()
 
 ## Logo
-![Logo](https://github.com/reyyusuf/reyyusuf/blob/cf9b77268db7b0080987ae8a4fe125ae1b4bde33/gambarlogo2.jpg)
+![Logo](https://github.com/reyyusuf/reyyusuf/blob/b3082c6c5ccf67921c382753d86917bf4221bca3/android-chrome-512x512.png)
 
 
 

@@ -25,6 +25,24 @@ $referralsList = [];
 while ($row = mysqli_fetch_assoc($queryreferrals)) {
     $referralsList[] = $row;
 }
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['delete_id'])) {
+    $deleteId = intval($_POST['delete_id']);
+    error_log("Delete request received for ID: " . $deleteId);
+
+    // Query untuk menghapus data berdasarkan ID
+    $deleteQuery = "DELETE FROM referrals WHERE id = ?";
+    $stmt = $con->prepare($deleteQuery);
+    $stmt->bind_param("i", $deleteId);
+
+    if ($stmt->execute()) {
+        // Redirect ke halaman yang sama setelah penghapusan berhasil
+        header("Location: clients.php");
+        exit;
+    } else {
+        echo "<div class='alert alert-danger'>Failed to delete referral. Please try again.</div>";
+    }
+}
 ?>
 
 <!DOCTYPE html>
@@ -188,7 +206,7 @@ while ($row = mysqli_fetch_assoc($queryreferrals)) {
                                     <td><?= htmlspecialchars($referral['ndis_number'] ?? 'N/A') ?></td>
                                     <td>
                                         <form method="POST" action="clients.php">
-                                            <input type="hidden" name="delete_id" value="<?= $referral['id'] ?>">
+                                            <input type="hidden" name="delete_id" value="<?= htmlspecialchars($referral['id']) ?>">
                                             <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this referral?');">Delete</button>
                                         </form>
                                     </td>

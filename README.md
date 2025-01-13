@@ -23,6 +23,8 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
 - [Software Requirements Specification](https://docs.google.com/document/d/1D58f4kxsS0cMFdobT3pVuWUAYNGzLBPE7t6Epa10ByM/edit?usp=sharing)
 - [Software Design Documents](https://docs.google.com/document/d/1tQs_9FwKleXdKAdC61r0If_T4Sdq5OBriLRQKK4mTUM/edit?usp=sharing)
 - [Implementasi Documents](https://docs.google.com/document/d/1chIIqhbJiF_W3bQezVX4FfTx8xAMV3mC/edit?usp=sharing&ouid=110591289204678091307&rtpof=true&sd=true)
+- [UAT Documents](https://docs.google.com/spreadsheets/d/1l6MbiPa0WLxNsCpKfCqhMIPgBPVfJ1KO/edit?usp=sharing&ouid=109110998398757024353&rtpof=true&sd=true)
+  
   
 
 

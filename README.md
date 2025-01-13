@@ -21,6 +21,7 @@ Tujuan proyek ini adalah membuat aplikasi e-Learning yang memungkinkan Guru untu
 - [Software Requirements Specification](https://drive.google.com/file/d/15BnulFhbKi7JptupcYUdcsloTM0rzBCW/view?usp=drive_link)
 - [Software Design Document](https://drive.google.com/file/d/141fMrVGT0nODUMRUDl7-at8y2DVP84ub/view?usp=drivesdk)
 - [Implementation Document](https://drive.google.com/file/d/137X0Q6pyR7skr_Me6b2OKH7yXyCcUKRR/view?usp=sharing)
+- [User Acceptance Testing](https://docs.google.com/spreadsheets/d/1PdItZbMXdaMpfM-nie_MhhleB2-H7SXY/edit?usp=sharing&ouid=100738975210553555002&rtpof=true&sd=true)
 
 ## Presentasi Video Proyek
 - [Presentasi Video Requirement Document](https://drive.google.com/file/d/1iWHYI0Kj6oq0MMSTlOVWjXwDnE-IiNGO/view?usp=drive_link)

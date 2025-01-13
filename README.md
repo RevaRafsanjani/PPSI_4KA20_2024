@@ -24,6 +24,7 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [Software Requirement Specification Document](https://docs.google.com/document/d/12uP5eH7eqc0zWUmXJedJ0Ux-DtGm1IzwOZAnEYCi_yk/edit?usp=sharing)
 - [Software Design Document](https://docs.google.com/document/d/1mJSJUubt4ayYzP9hpW2Jd2pz7aT0CPDMR6vJ6zRyjBQ/edit?usp=sharing)
 - [Implementation Plan Document](https://docs.google.com/document/d/1s_08wmAtmj8_9ZQkzmzZ_bYikXCsJ1N1lv-1-3DyCvQ/edit?usp=sharing)
+- [User Acceptance Test Document](https://docs.google.com/spreadsheets/d/1I5Vz3rRaH8Z7y6XZrWJnVwvfoqkqHgSW3dJfVVlqWKM/edit?usp=sharing)
 
 ## Video Presentation
 

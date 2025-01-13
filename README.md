@@ -19,6 +19,7 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 - [SRS](https://docs.google.com/document/d/1_lKLvzCtP0kGE-c8HDyc3yIF4HHAoxLH/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
 - [SDD](https://docs.google.com/document/d/1M6_D4weXtsr_9VFK9ROsB4qBEaQuxHjI/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 - [Implementasi](https://docs.google.com/document/d/1mKiwFwD7xbmRGmAkyUCXiFwEP4oExRRI/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
+- [Dokumen UAT(User Acceptance Testing)](https://docs.google.com/spreadsheets/d/1yRKuj90UcH0m6FzzGvZMZlpejXyZgfqO/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
 
 ## Extras
 - [Requirment Document Presentation](https://drive.google.com/file/d/13eQHnRbR-UFrHm6tCTRyrqf0FN3r432m/view?usp=drive_link)

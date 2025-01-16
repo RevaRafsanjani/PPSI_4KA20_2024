@@ -18,7 +18,7 @@
     <div class="container-fluid bannerservice d-flex align-items-center">
         <div class="container">
             <h1 class="text-dark text-center"><strong>Contact Us</strong></h1>
-            <h3 class="text-black-50 text-center">Available on 08.00 AM - 05.00 PM</h3>
+            <p class="text-white-50 text-center" style="font-size: 170%;">Available on 08.00 AM - 05.00 PM</p>
         </div>
     </div>
 
@@ -34,9 +34,9 @@
                     <div class="contact-box mt-4 mb-1">
                         <h3 class="section-title text-center"><strong>Contact Information</strong></h3>
                         <p class="contact-text">We're here to help! Reach out to us anytime.</p>
-                        <p><i class="fas fa-envelope"></i> <strong>Email:</strong> <a href="mailto:ac.ndis1904@gmail.com">ac.ndis1904@gmail.com</a></p>
-                        <p><i class="fas fa-phone-alt"></i> <strong>Phone:</strong> <a href="tel:+61424467030">04 2446 7030</a></p>
-                        <p><i class="fas fa-map-marker-alt"></i> <strong>Our Address:</strong> Suite 121, 20B Lexington Drive, Bella Vista, 2153</p>
+                        <p><i class="fa-solid fa-envelope"></i> <strong>Email :</strong> <a href="mailto:ac.ndis1904@gmail.com" class="text-decoration-none">acnursing19@gmail.com</a></p>
+                        <p><i class="fa-solid fa-phone"></i> <strong>Phone :</strong> <a href="tel:+61424467030" class="text-decoration-none">0424 467 030</a></p>
+                        <p><i class="fas fa-map-marker-alt"></i> <strong>Our Address :</strong> 437 Sevenoaks Street, Beckenham</p>
                     </div>
                 </div>
 
@@ -63,15 +63,15 @@
             </div>
         </div>
     </div>
+
     <!-- location Services -->
     <div class="container-fluid py-2 warna9">
         <div class="container text-center">
             <h3 style="color: #69247C;"><strong>Our Locations</strong></h3>
             <div class="row justify-content-center align-items-center py-3 warna-highlight">
-                <p class="text-dark fs-5">We currently offer services in the following areas :</p>
+                <p class="text-dark fs-5">We currently offer services surroundings these areas :</p>
                 <p>
-                    <span class="color-text4">Greater Western Sydney</span>
-                    <span class="color-text1">– from Parramatta to the foothills of the Blue Mountains</span>
+                    <span class="text-black-50"><strong>Cannington, Ardross, Applecross, South Perth, Morley, and Scarborough</strong></span>.
                 </p>
             </div>
         </div>
@@ -90,7 +90,7 @@
             const name = document.getElementById("name").value;
             const message = document.getElementById("message").value;
 
-            const url = "https://api.whatsapp.com/send?phone=6281536638628&text=" +
+            const url = "https://api.whatsapp.com/send?phone=61424467030&text=" +
                 encodeURIComponent("Hello AC Nursing Admin. Your Client with Name ") +
                 encodeURIComponent(name) +
                 encodeURIComponent(" is Asking About ") +

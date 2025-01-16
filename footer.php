@@ -30,9 +30,9 @@
             <div class="col-md-3 mb-3 border-end">
                 <h5 class="text-dark mb-4"><strong>CONTACT US</strong></h5>
                 <ul class="list-unstyled">
-                    <li><a href="mailto:ac.ndis1904@gmail.com" class="text-decoration-none"><i class="fa-solid fa-envelope"></i> Email : ac.ndis1904@gmail.com</a></li>
-                    <li><a href="tel:+61424467030" class="text-white text-decoration-none"><i class="fa-solid fa-phone"></i> Call : 04 2446 7030</a></li>
-                    <li><a href="" class="text-white text-decoration-none"><i class="fas fa-map-marker-alt"></i> Address : Suite 121, 20B Lexington Drive, Bella Vista, 2153</a></li>
+                    <li><a href="mailto:ac.ndis1904@gmail.com" class="text-decoration-none"><i class="fa-solid fa-envelope"></i> Email : acnursing19@gmail.com</a></li>
+                    <li><a href="tel:+61424467030" class="text-white text-decoration-none"><i class="fa-solid fa-phone"></i> Call : 0424 467 030</a></li>
+                    <li><a href="" class="text-white text-decoration-none"><i class="fas fa-map-marker-alt"></i> Address : 437 Sevenoaks St, Beckenham</a></li>
                 </ul>
             </div>
 

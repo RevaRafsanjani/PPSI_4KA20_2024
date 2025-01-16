@@ -165,10 +165,9 @@ $querylayanan = mysqli_query($con, "SELECT id, nama, foto, detail FROM layanan L
         <div class="container text-center">
             <h3 style="color: #69247C;"><strong>Our Locations</strong></h3>
             <div class="row justify-content-center align-items-center py-3 warna-highlight">
-                <p class="text-dark fs-5">We currently offer services in the following areas :</p>
+                <p class="text-dark fs-5">We currently offer services surroundings these areas :</p>
                 <p>
-                    <span class="color-text4">Greater Western Sydney</span>
-                    <span class="color-text1">– from Parramatta to the foothills of the Blue Mountains</span>
+                    <span class="color-text4"><strong>Cannington, Ardross, Applecross, South Perth, Morley, and Scarborough</strong></span>.
                 </p>
             </div>
         </div>

@@ -110,7 +110,7 @@ $countData = mysqli_num_rows($querylayanan);
                             <p class="card-text text-truncate text-black-50">
                                 <?php echo $layanan['detail']; ?>
                             </p>
-                            <a href="layanan-detail.php?nama=<?php echo $layanan['nama']; ?>" class="btn btn-outline-brown text-white p-2 mt-auto mx-auto" style="width: 50%; border-radius: 20px;">Read More</a>
+                            <a href="layanan-detail.php?nama=<?php echo $layanan['nama']; ?>" class="btn btn-outline-brown text-white p-2 mt-auto mx-auto" style="width: 30%; border-radius: 20px;">Read More</a>
                         </div>
                     </div>
                 </div>

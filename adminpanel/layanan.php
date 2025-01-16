@@ -100,6 +100,7 @@ function generateRandomString($length = 10)
                 <div>
                     <label for="foto">Image</label>
                     <input type="file" name="foto" id="foto" class="form-control">
+                    <small class="text-muted">Image size must not exceed 500KB.</small>
                 </div>
                 <div>
                     <label for="detail">Details</label>

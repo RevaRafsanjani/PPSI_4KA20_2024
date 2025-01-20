@@ -20,6 +20,10 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 - [SDD](https://docs.google.com/document/d/1M6_D4weXtsr_9VFK9ROsB4qBEaQuxHjI/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 - [Implementasi](https://docs.google.com/document/d/1mKiwFwD7xbmRGmAkyUCXiFwEP4oExRRI/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
 - [Dokumen UAT(User Acceptance Testing)](https://docs.google.com/spreadsheets/d/1yRKuj90UcH0m6FzzGvZMZlpejXyZgfqO/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
+- [User Manual](https://docs.google.com/document/d/1eW2iNdKjbCgjK4ou4lBJD4ZZCN8FpQ5v/edit_)
+- [Surat Undangan Pelatihan](https://docs.google.com/document/d/10-o7tfNN2gyICPAR8b0PP0f8WWQcjXdqC_GyMTP_BNo/edit?tab=t.0)
+- [Surat Undangan Serah Terima](https://docs.google.com/document/d/1EEQLmhUspkMWKlbi18aHMhvovT4xUPinkLiDigDapy8/edit?tab=t.0)
+- [Berita Acara Serah Terima](https://docs.google.com/document/d/1B4vxNYSH8wAOmMzCc_Di7OxLSQXpi2SgHD8UK6276LU/edit?tab=t.0)
 
 ## Extras
 - [Requirment Document Presentation](https://drive.google.com/file/d/13eQHnRbR-UFrHm6tCTRyrqf0FN3r432m/view?usp=drive_link)

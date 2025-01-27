@@ -34,6 +34,14 @@ Website AC Nursing bertujuan untuk memberikan informasi lengkap dan mudah diakse
 - [Presentation Video Software Requirements Specification](https://drive.google.com/file/d/1XcsC-duLmBfGRRZQN6ux78D9C6ed0n3b/view?usp=drive_link)
 - [Presentation Video Implementation Plan](https://drive.google.com/file/d/16QdmF-Jd8cncU6Bq7_8cF4XYreBni11F/view?usp=sharing)
 
+## Final Documentation
+
+- [User Manual And Tech Guide]()
+- [Log Book]()
+- [Surat Undangan Serah Terima]()
+- [Berita Acara Serah Terima]()
+- [Laporan Akhir]()
+
 ## Our Design
 [Figma Link for AC Nursing Design]()
 

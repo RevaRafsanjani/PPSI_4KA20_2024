@@ -18,7 +18,6 @@
     <div class="container-fluid bannerservice d-flex align-items-center">
         <div class="container">
             <h1 class="text-dark text-center"><strong>Contact Us</strong></h1>
-            <p class="text-white-50 text-center" style="font-size: 170%;">Available on 08.00 AM - 05.00 PM</p>
         </div>
     </div>
 
@@ -29,6 +28,8 @@
     <div class="container-fluid d-flex align-items-center warna9">
         <div class="container text-dark">
             <div class="row justify-content-center">
+                <p class="color-text3 text-center" style="font-size: 200%;"><strong>Available on Monday to Friday</strong></p>
+                <p class="text-white text-center" style="font-size: 150%;">08.00 AM - 05.00 PM</p>
                 <!-- Contact Information Box -->
                 <div class="col-md-5">
                     <div class="contact-box mt-4 mb-1">
@@ -36,7 +37,7 @@
                         <p class="contact-text">We're here to help! Reach out to us anytime.</p>
                         <p><i class="fa-solid fa-envelope"></i> <strong>Email :</strong> <a href="mailto:ac.ndis1904@gmail.com" class="text-decoration-none">acnursing19@gmail.com</a></p>
                         <p><i class="fa-solid fa-phone"></i> <strong>Phone :</strong> <a href="tel:+61424467030" class="text-decoration-none">0424 467 030</a></p>
-                        <p><i class="fas fa-map-marker-alt"></i> <strong>Our Address :</strong> 437 Sevenoaks Street, Beckenham</p>
+                        <p><i class="fas fa-map-marker-alt"></i> <strong>Our Address :</strong> 437 Sevenoaks Street, Beckenham WA 6107</p>
                     </div>
                 </div>
 

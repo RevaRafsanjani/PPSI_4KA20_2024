@@ -139,19 +139,25 @@ $querylayanan = mysqli_query($con, "SELECT id, nama, foto, detail FROM layanan L
             </h3>
             <div class="row mt-5">
                 <div class="col-md-4 mb-3">
-                    <div class="highlighted-kategori kategori-satu d-flex justify-content-center align-items-center">
-                        <h4 class="text-white"><a class="no-decoration" href="layanan.php?kategori=Nursing Care"><strong>Nursing Care</strong></a></h4>
-                    </div>
+                    <a class="no-decoration" href="layanan.php?kategori=Nursing Care">
+                        <div class="highlighted-kategori kategori-satu d-flex justify-content-center align-items-center">
+                            <h4 class="text-white"><strong>Nursing Care</strong></h4>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <div class="highlighted-kategori kategori-dua d-flex justify-content-center align-items-center">
-                        <h4 class="text-white"><a class="no-decoration" href="layanan.php?kategori=Community Activities"><strong>Group Activities</strong></a></h4>
-                    </div>
+                    <a class="no-decoration" href="layanan.php?kategori=Community Activities">
+                        <div class="highlighted-kategori kategori-dua d-flex justify-content-center align-items-center">
+                            <h4 class="text-white"><strong>Group Activities</strong></h4>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <div class="highlighted-kategori kategori-tiga d-flex justify-content-center align-items-center">
-                        <h4 class="text-white"><a class="no-decoration" href="layanan.php?kategori=Living Support"><strong>Daily Living Support</strong></a></h4>
-                    </div>
+                    <a class="no-decoration" href="layanan.php?kategori=Living Support">
+                        <div class="highlighted-kategori kategori-tiga d-flex justify-content-center align-items-center">
+                            <h4 class="text-white"><strong>Daily Living Support</strong></h4>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>

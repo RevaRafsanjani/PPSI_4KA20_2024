@@ -23,14 +23,20 @@ $querylayananTerkait = mysqli_query($con, "SELECT * FROM layanan WHERE id!='$lay
 
 <body>
     <?php require "navbar.php"; ?>
+    <!-- banner -->
+    <div class="container-fluid bannerservice d-flex align-items-center">
+        <div class="container">
+            <h1 class="text-dark text-center"><strong>Services</strong></h1>
+        </div>
+    </div>
 
-    <div class="container-fluid py-5" style="margin-top: 50px;">
+    <div class="container-fluid py-5">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 mb-2" style="margin-top: 40px;">
+                <div class="col-lg-5 mb-2">
                     <img src="image/<?php echo $layanan['foto']; ?>" class="w-100 img-thumbnail" alt="">
                 </div>
-                <div class="col-lg-6 offset-lg-1" style="margin-top: 40px;">
+                <div class="col-lg-6 offset-lg-1">
                     <h1 class="mb-4">
                         <strong><?php echo $layanan['nama']; ?></strong>
                     </h1>

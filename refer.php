@@ -85,6 +85,14 @@ if (isset($_POST['submit_referral'])) {
 
             if (mysqli_query($con, $query)) {
                 $success = "Referral successfully submitted!";
+
+                // Buat URL untuk WhatsApp
+                $whatsappNumber = "6285717880773"; // Nomor tujuan
+                $waMessage = "Hello AC Nursing Admin. Your Client with Name $full_name has submitted a referral for $type_of_service.";
+                $whatsappUrl = "https://api.whatsapp.com/send?phone=$whatsappNumber&text=" . urlencode($waMessage);
+
+                // Redirect ke WhatsApp setelah 2 detik
+                echo "<meta http-equiv='refresh' content='2;url=$whatsappUrl'>";
             } else {
                 $error = "Error: " . mysqli_error($con);
             }
@@ -220,7 +228,6 @@ if (isset($_POST['submit_referral'])) {
                         <option value="" disabled selected>Choose Gender</option>
                         <option value="Male">Male</option>
                         <option value="Female">Female</option>
-                        <option value="Other">Other</option>
                     </select>
                 </div>
             </div>
@@ -267,20 +274,25 @@ if (isset($_POST['submit_referral'])) {
             </div>
 
             <!-- Submit Button -->
-            <button type="submit" name="submit_referral" class="btn btn-primary">Submit Referral</button>
+            <button type="submit" name="submit_referral" id="submit_referral" class="btn btn-primary">Submit Referral</button>
         </form>
 
 
-        <!-- Success/Error Messages -->
         <?php if (isset($success)): ?>
             <div class="alert alert-primary mt-3" role="alert">
                 <?= $success ?>
             </div>
-            <meta http-equiv="refresh" content="2; url=index.php">
-        <?php endif; ?>
+            <script>
+                // Redirect ke WhatsApp setelah 2 detik
+                setTimeout(function() {
+                    window.location.href = "https://api.whatsapp.com/send?phone=61424467030&text=<?= urlencode('Hello AC Nursing Admin. Your Client with Name ' . $full_name . ' has submitted a referral for ' . $type_of_service . '.') ?>";
+                }, 2000);
 
-        <?php if (isset($error)): ?>
-            <div class="error-message"><?= $error ?></div>
+                // Redirect ke index.php setelah 5 detik
+                setTimeout(function() {
+                    window.location.href = "index.php";
+                }, 5000);
+            </script>
         <?php endif; ?>
     </div>
 
@@ -314,6 +326,21 @@ if (isset($_POST['submit_referral'])) {
                 window.location.href = 'login.php?timeout=1';
             }
         }, 1000);
+    </script>
+    <script>
+        // Fungsi untuk mengarahkan ke WhatsApp setelah submit
+        document.querySelector('#submit_referral').addEventListener('click', function(e) {
+            const name = document.getElementById("full_name").value;
+            const service = document.getElementById("type_of_service").value;
+
+            const whatsappNumber = "61424467030";
+            const message = `Hello AC Nursing Admin. Your Client with Name ${name} has submitted a referral for ${service}.`;
+
+            // Arahkan ke WhatsApp dengan pesan
+            setTimeout(() => {
+                window.location.href = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodeURIComponent(message)}`;
+            }, 2000); // Tunggu 2 detik untuk menyimpan data ke database
+        });
     </script>
 </body>
 

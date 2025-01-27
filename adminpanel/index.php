@@ -7,6 +7,9 @@ $jumlahKategori = mysqli_num_rows($queryKategori);
 
 $querylayanan = mysqli_query($con, "SELECT * FROM layanan");
 $jumlahlayanan = mysqli_num_rows($querylayanan);
+
+$queryClients = mysqli_query($con, "SELECT * FROM referrals");
+$jumlahClients = mysqli_num_rows($queryClients);
 ?>
 
 <!DOCTYPE html>
@@ -65,6 +68,10 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
 
         .summary-layanan {
             background: linear-gradient(45deg, #1dd1a1, #48dbfb);
+        }
+
+        .summary-clients {
+            background: linear-gradient(45deg, rgb(154, 102, 236), #48dbfb);
         }
 
         .summary-card h3 {
@@ -127,7 +134,6 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
         <div class="container mt-5">
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-12 mb-3">
-                    <!-- Bungkus seluruh kartu dengan elemen <a> -->
                     <a href="kategori.php" class="no-decoration">
                         <div class="summary-card summary-kategori">
                             <div class="icon">
@@ -140,7 +146,6 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
                 </div>
 
                 <div class="col-lg-4 col-md-6 col-12 mb-3">
-                    <!-- Bungkus seluruh kartu dengan elemen <a> -->
                     <a href="layanan.php" class="no-decoration">
                         <div class="summary-card summary-layanan">
                             <div class="icon">
@@ -148,6 +153,19 @@ $jumlahlayanan = mysqli_num_rows($querylayanan);
                             </div>
                             <h3><strong>Edit Services</strong></h3>
                             <p><?php echo $jumlahlayanan; ?> Services</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Kartu untuk jumlah Clients -->
+                <div class="col-lg-4 col-md-6 col-12 mb-3">
+                    <a href="clients.php" class="no-decoration">
+                        <div class="summary-card summary-clients">
+                            <div class="icon">
+                                <i class="fa-solid fa-users"></i>
+                            </div>
+                            <h3><strong>View Clients</strong></h3>
+                            <p><?php echo $jumlahClients; ?> Clients</p>
                         </div>
                     </a>
                 </div>

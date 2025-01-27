@@ -2,6 +2,10 @@
 require "session.php";
 require "../koneksi.php";
 
+// Query untuk menghitung jumlah klien
+$queryClients = mysqli_query($con, "SELECT * FROM referrals");
+$jumlahClients = mysqli_num_rows($queryClients);
+
 // Ambil nilai pencarian dari form
 $searchTerm = "";
 if (isset($_POST['search'])) {
@@ -133,8 +137,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['delete_id'])) {
 
     <!-- Banner Section -->
     <div class="container-fluid py-5 text-center">
-        <h2>Client Referrals</h2>
+        <h2>Clients</h2>
         <p class="lead">These are the people you have referred</p>
+        <p>Total Clients: <?php echo $jumlahClients; ?></p>
     </div>
 
     <!-- Pencarian Section -->
@@ -170,7 +175,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['delete_id'])) {
                     <table class="table table-bordered">
                         <thead class="table-dark">
                             <tr>
-                                <th>#</th>
+                                <th>No.</th>
                                 <th>Full Name</th>
                                 <th>Date of Birth</th>
                                 <th>Address</th>

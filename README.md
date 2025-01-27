@@ -26,7 +26,7 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [Implementation Plan Document](https://docs.google.com/document/d/1s_08wmAtmj8_9ZQkzmzZ_bYikXCsJ1N1lv-1-3DyCvQ/edit?usp=sharing)
 - [User Acceptance Test Document](https://docs.google.com/spreadsheets/d/1I5Vz3rRaH8Z7y6XZrWJnVwvfoqkqHgSW3dJfVVlqWKM/edit?usp=sharing)
 
-## FINAL DOCUMENTATION
+## Final Documentation
 
 - [User Manual And Tech Guide](https://docs.google.com/document/d/1xuGDnXII4JOkOvpKYinNFk25P5JDchesmcFnm_Hp7-E/edit?usp=sharing)
 - [Log Book](https://docs.google.com/spreadsheets/d/1wqH4IvDC5C0Fnj4x4etPYpi7XFT3Bv_N4c4v--uE1LY/edit?usp=sharing)

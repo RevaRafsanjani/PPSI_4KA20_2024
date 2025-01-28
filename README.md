@@ -30,7 +30,7 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
 - [UAT Clients](https://docs.google.com/spreadsheets/d/1l6MbiPa0WLxNsCpKfCqhMIPgBPVfJ1KO/edit?usp=sharing&ouid=113147192037162121508&rtpof=true&sd=true)
 - [BERITA ACARA SERAH TERIMA WEBSITE PUGNATOR](https://docs.google.com/document/d/12bPwrA4XbHpMVAzRNltne6cYmmu5yGx50B79u4zKLo8/edit?usp=sharing)
 - [Surat Undangan Pelatihan dan Serah Terima](https://docs.google.com/document/d/1uyoJMM7AD8kWUyJyJMek269xk19xOyIkaC3sM7GW8fc/edit?usp=sharing)
-- [Laporan Akhir dan Logbook](https://docs.google.com/document/d/1NCDAECB6lJbKM5Nk3dXym-BhsAZhgvvcuE4235F33Vs/edit?usp=sharing)
+- [Laporan Akhir dan Logbook](https://docs.google.com/document/d/1tkZ6QBKIZrxzv_QZ_9rkHnQgHnrvmE3n5A-r8F7HlTQ/edit?pli=1&tab=t.0)
   
   
 

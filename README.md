@@ -24,6 +24,9 @@ Projek ini bertujuan untuk membangun website katalog yang menampilkan produk-pro
 - [Software Design Documents](https://docs.google.com/document/d/1tQs_9FwKleXdKAdC61r0If_T4Sdq5OBriLRQKK4mTUM/edit?usp=sharing)
 - [Implementasi Documents](https://docs.google.com/document/d/1chIIqhbJiF_W3bQezVX4FfTx8xAMV3mC/edit?usp=sharing&ouid=110591289204678091307&rtpof=true&sd=true)
 - [UAT Documents](https://docs.google.com/spreadsheets/d/1l6MbiPa0WLxNsCpKfCqhMIPgBPVfJ1KO/edit?usp=sharing&ouid=109110998398757024353&rtpof=true&sd=true)
+- [BERITA ACARA SERAH TERIMA WEBSITE PUGNATOR](https://docs.google.com/document/d/12bPwrA4XbHpMVAzRNltne6cYmmu5yGx50B79u4zKLo8/edit?usp=sharing)
+- [Surat Undangan Pelatihan dan Serah Terima](https://docs.google.com/document/d/1uyoJMM7AD8kWUyJyJMek269xk19xOyIkaC3sM7GW8fc/edit?usp=sharing)
+- [Laporan Akhir dan Logbook](https://docs.google.com/document/d/1NCDAECB6lJbKM5Nk3dXym-BhsAZhgvvcuE4235F33Vs/edit?usp=sharing)
   
   
 

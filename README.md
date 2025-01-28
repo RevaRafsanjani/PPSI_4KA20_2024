@@ -13,6 +13,7 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 ## Documentation 
 - [Introduction Presentation](https://www.canva.com/design/DAGTcOm4wNQ/1Kbp08aP172z0DJHKr5hew/edit?utm_content=DAGTcOm4wNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [WBS & GhanttChart](https://docs.google.com/spreadsheets/d/1kqdSWWBbXk9HYxJZndC8U62nx2pZGZXFxUpIpduGSVg/edit?usp=drive_link)
+- [Desain](https://www.figma.com/design/dOFt5spqdR087dqC0tB8sk/kelompok-5?node-id=0-1&t=89G6wrnIZ7hu0L2R-1)
 - [Project Charter](https://docs.google.com/document/d/10eLmqHr_7fOLy-u_Fz5xZ7LV_oULq-Nn/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 - [Requirement Document](https://docs.google.com/document/d/1vWykRRQn-1_0ZJfPbXuUfWaemVGfLwLq/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 - [BPMN](https://drive.google.com/file/d/1B-ubc4HbFFwUQRfbIYlk5BrRyRbP-AgI/view?usp=sharing)
@@ -20,12 +21,11 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 - [SDD](https://docs.google.com/document/d/1M6_D4weXtsr_9VFK9ROsB4qBEaQuxHjI/edit?usp=drive_link&ouid=102902205753757122034&rtpof=true&sd=true)
 - [Implementasi](https://docs.google.com/document/d/1mKiwFwD7xbmRGmAkyUCXiFwEP4oExRRI/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
 - [Dokumen UAT(User Acceptance Testing)](https://docs.google.com/spreadsheets/d/1yRKuj90UcH0m6FzzGvZMZlpejXyZgfqO/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
-- [User Manual](https://docs.google.com/document/d/1eW2iNdKjbCgjK4ou4lBJD4ZZCN8FpQ5v/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
-- [Surat Undangan Pelatihan](https://docs.google.com/document/d/10-o7tfNN2gyICPAR8b0PP0f8WWQcjXdqC_GyMTP_BNo/edit?tab=t.0)
-- [Surat Undangan Serah Terima](https://docs.google.com/document/d/1EEQLmhUspkMWKlbi18aHMhvovT4xUPinkLiDigDapy8/edit?tab=t.0)
+- [User Manual dan Tech Guide](https://docs.google.com/document/d/1eW2iNdKjbCgjK4ou4lBJD4ZZCN8FpQ5v/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
+- [Surat Undangan Pelatihan dan Serah Terima](https://docs.google.com/document/d/1EEQLmhUspkMWKlbi18aHMhvovT4xUPinkLiDigDapy8/edit?tab=t.0)
 - [Berita Acara Serah Terima](https://docs.google.com/document/d/1B4vxNYSH8wAOmMzCc_Di7OxLSQXpi2SgHD8UK6276LU/edit?tab=t.0)
 - [Dokumen UAT Client](https://docs.google.com/spreadsheets/d/1OGkPqQZ_zsXSMebAR153lVgizhpQ1G8L/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
-- [Laporan Akhir dan Logbook](https://docs.google.com/document/d/1ga7cp_46cbrHxAef1Bi4eJUcbcjaDiNH/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
+- [Laporan Akhir dan LogBook](https://docs.google.com/document/d/1ga7cp_46cbrHxAef1Bi4eJUcbcjaDiNH/edit?usp=drive_link&ouid=114534395349432176861&rtpof=true&sd=true)
 
 ## Extras
 - [Requirment Document Presentation](https://drive.google.com/file/d/13eQHnRbR-UFrHm6tCTRyrqf0FN3r432m/view?usp=drive_link)

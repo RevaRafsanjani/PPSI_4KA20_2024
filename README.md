@@ -33,6 +33,7 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 - [Surat Undangan Serah Terima](https://docs.google.com/document/d/11rLdRaDAiC9AmGx1L834phXg8rHxd25kjy4JpGGWpg8/edit?usp=sharing)
 - [Berita Acara Serah Terima](https://docs.google.com/document/d/1wPz3FK7nmpro7dlLc2tNgtwJAZIH2CAp3sSNroAZgX8/edit?usp=sharing)
 - [Laporan Akhir](https://docs.google.com/document/d/1p2hds4e0TwGrPKKVx_ACUFisfamkqgnezzHhuqSnD60/edit?usp=sharing)
+- [UAT Client](https://docs.google.com/spreadsheets/d/1NrVgRECnNayoT9aVwFDwEoac3T-fC__NyyROyZMdgdQ/edit?usp=sharing)
 
 
 ## Video Presentation

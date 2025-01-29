@@ -5,7 +5,7 @@ Akastra Rent Car merupakan salah satu bidang usaha dari PT. Alkautsar Putra Indo
 Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus untuk Akastra Rent Car. Website ini akan menjadi representasi digital dari perusahaan, menampilkan informasi lengkap tentang layanan penyewaan mobil yang tersedia serta memperlihatkan identitas dan kredibilitas Akastra Rent Car kepada publik.
 
 ## Authors
-- Nurahmah Asriah as Project Manager
+- [Nurahmah Asriah](https://github.com/rhmarie) as Project Manager
 - Siti Carbala as System Analyst
 - Muhammad Chair Rizieq as Designer
 - Daffa Almas Syakhbani as Programmer

@@ -28,3 +28,5 @@ This project aims to enhance the salon’s online presence, streamline customer 
 - [Revisi (2.0 Version) Rencana Implementasi Kelompok 4](https://docs.google.com/document/d/1jyjcmblpPYOhhRZirKsD9mKPmI9oju1g/edit?usp=sharing&ouid=100672645685235124214&rtpof=true&sd=true)
 - [User Acceptance Testing Kelompok 4](https://docs.google.com/spreadsheets/d/1PMDaMS2ULbB1Jysg9OHczjsvT4J60Z7c/edit?usp=drive_link&ouid=117271893197335427776&rtpof=true&sd=true)
 - [Laporan Akhir_Kelompok 4](https://drive.google.com/file/d/1xUb0TIgDqlCawpKlvNqBau9tG_hFtMiv/view?usp=drive_link)
+- [Dokumen Pelatihan Website_Kelompok 4](https://drive.google.com/file/d/1SSJVSWtWAZH3JWnYccOTK8GG01mJIC87/view?usp=drive_link)
+- [Presentasi Pelatiha Website_Kelompok 4](https://drive.google.com/file/d/1Px6TyEvojXqAzBDlKJv11AJ-kYFLBVjJ/view?usp=sharing)

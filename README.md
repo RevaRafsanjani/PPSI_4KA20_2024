@@ -36,11 +36,11 @@ Website AC Nursing bertujuan untuk memberikan informasi lengkap dan mudah diakse
 
 ## Final Documentation
 
-- [User Manual And Tech Guide](https://docs.google.com/document/d/1-wG_HqWmYPMstJzBMUg6C5d-vs4iOVLfJc9bQnHqhA0/edit?usp=drive_link)
-- [Log Book]()
-- [Surat Undangan Serah Terima]()
-- [Berita Acara Serah Terima]()
-- [Laporan Akhir]()
+- [User Manual And Tech Guide](https://drive.google.com/drive/folders/1yNn_Dprt3ewY6PgDlKT889ylzYaAmpLb?usp=drive_link)
+- [Log Book](https://docs.google.com/spreadsheets/d/1tAno-B6mlZ1NBv8jWT19T25uo7ddG8I0/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
+- [Surat Undangan Serah Terima](https://docs.google.com/document/d/1DJGijeIG5EHnlCXSVjokSfMWhJTGVVNP/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
+- [Berita Acara Serah Terima](https://docs.google.com/document/d/1DC6daun7cjWYEzcY5Q0VyRteco6TCNG8/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
+- [Laporan Akhir](https://docs.google.com/document/d/1DbcskQTpyp5IhxkVXqmnalVHoQZLyKkb/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
 
 ## Our Design
 [Figma Link for AC Nursing Design]()

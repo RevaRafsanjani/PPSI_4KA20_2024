@@ -6,9 +6,9 @@ Proyek ini bertujuan untuk membuat website company profile yang dirancang khusus
 
 ## Authors
 - [Nurahmah Asriah](https://github.com/rhmarie) as Project Manager
-- Siti Carbala as System Analyst
+- [Siti Carbala](https://github.com/siti0503) as System Analyst
 - Muhammad Chair Rizieq as Designer
-- Daffa Almas Syakhbani as Programmer
+- [Daffa Almas Syakhbani](https://github.com/almaasd) as Programmer
 
 ## Documentation 
 - [Introduction Presentation](https://www.canva.com/design/DAGTcOm4wNQ/1Kbp08aP172z0DJHKr5hew/edit?utm_content=DAGTcOm4wNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

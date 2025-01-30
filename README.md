@@ -38,8 +38,8 @@ Website AC Nursing bertujuan untuk memberikan informasi lengkap dan mudah diakse
 
 - [User Manual And Tech Guide](https://drive.google.com/drive/folders/1yNn_Dprt3ewY6PgDlKT889ylzYaAmpLb?usp=drive_link)
 - [Log Book](https://docs.google.com/spreadsheets/d/1tAno-B6mlZ1NBv8jWT19T25uo7ddG8I0/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
-- [Surat Undangan Serah Terima](https://docs.google.com/document/d/1DJGijeIG5EHnlCXSVjokSfMWhJTGVVNP/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
-- [Berita Acara Serah Terima](https://docs.google.com/document/d/1DC6daun7cjWYEzcY5Q0VyRteco6TCNG8/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
+- [Surat Undangan Serah Terima](https://docs.google.com/document/d/1DRUXl6GFChRtiFJcrKK21C8WERHsQPqA/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
+- [Berita Acara Serah Terima](https://docs.google.com/document/d/1DR9Yp1Kat2GK9IT4aKqHsg8JUpJVpGfi/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
 - [Laporan Akhir](https://docs.google.com/document/d/1DbcskQTpyp5IhxkVXqmnalVHoQZLyKkb/edit?usp=drive_link&ouid=115281721375636308686&rtpof=true&sd=true)
 
 ## Our Design

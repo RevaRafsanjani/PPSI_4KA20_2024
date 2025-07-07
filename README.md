@@ -51,6 +51,29 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 ## Website Link
 [![Toko Herbal Lestari](https://img.shields.io/badge/Toko%20Herbal%20Lestari-00a651?style=for-the-badge&logo=shopify&logoColor=white)](https://tokoherballestari.my.id/)
 
+## Run Locally
+- Mengatur file .env
+
+```bash
+  DB_DATABASE=toko_herbal <-- Contoh Penggunaan
+  DB_USERNAME=root
+  DB_PASSWORD=
+```
+
+- Membuat Database di MySQL dengan nama yang sama
+
+- Menjalankan Migrasi Database
+
+```bash
+  php artisan migrate:fresh
+```
+
+- Menjalankan Website
+
+```bash
+  php artisan serve
+```
+
 
 
 

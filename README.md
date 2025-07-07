@@ -48,14 +48,15 @@ Tujuan dari proyek ini untuk memudahkan pembeli untuk melakukan pembelian tanpa 
 ## Logo
 ![Logo](https://github.com/RevaRafsanjani/pengalaman-belajar/blob/0b8bbe9b9873530acdb3fc8f14a4ecb0d8423bd0/Logo%202.png)
 
-## Website Link
+## Website Link And Zip File
 [![Toko Herbal Lestari](https://img.shields.io/badge/Toko%20Herbal%20Lestari-00a651?style=for-the-badge&logo=shopify&logoColor=white)](https://tokoherballestari.my.id/)
+[![ZIP FILE](https://img.shields.io/badge/ZIP%20FILE-00a651?style=for-the-badge&logo=gnupg&logoColor=white)](https://drive.google.com/file/d/1MmXp_kBWP3IoXNAQqSxL2lUOzIUvd74-/view?usp=sharing)
 
 ## Run Locally
 - Mengatur file .env
 
 ```bash
-  DB_DATABASE=toko_herbal <-- Contoh Penggunaan
+  DB_DATABASE=toko_herbal
   DB_USERNAME=root
   DB_PASSWORD=
 ```
